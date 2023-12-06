@@ -3,7 +3,7 @@
 Welcome! This Privacy Policy is intended to inform you about how we collect, use, and protect your data when you use our app. By using our app, you agree to the terms outlined in this policy.
 
 ## Last Updated
-November 12, 2023
+Dec 6, 2023
 
 ## 1. Introduction
 Our app is committed to protecting your privacy and ensuring the security of your personal information. This policy explains how we collect and handle your data.
