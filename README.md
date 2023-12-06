@@ -1,4 +1,4 @@
-# Privacy Policy
+# MindMaze Privacy Policy
 
 Welcome! This Privacy Policy is intended to inform you about how we collect, use, and protect your data when you use our app. By using our app, you agree to the terms outlined in this policy.
 
